@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+     <record id="employee_data1" model="employee.level">
+            <field name="level">SubJunior</field>
+            <field name="salary">5000</field>
+     </record>
+     <record id="employee_data2" model="employee.level">
+           <field name="level">Junior</field>
+            <field name="salary">10000</field>
+     </record>
+     <record id="employee_data3" model="employee.level">
+            <field name="level">Senior</field>
+            <field name="salary">15000</field>
+     </record>
+     <record id="employee_data4" model="employee.level">
+            <field name="level">Super senior</field>
+            <field name="salary">20000</field>
+     </record>
+</odoo>
